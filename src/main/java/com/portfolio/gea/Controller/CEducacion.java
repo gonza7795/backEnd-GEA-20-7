@@ -5,10 +5,10 @@
 package com.portfolio.gea.Controller;
 
 import com.portfolio.gea.Dto.dtoEducacion;
-import com.portfolio.gea.Dto.dtoExperiencia;
+
 
 import com.portfolio.gea.Entity.Educacion;
-import com.portfolio.gea.Entity.Experiencia;
+
 
 import com.portfolio.gea.Security.Controller.Mensaje;
 
@@ -114,3 +114,6 @@ public class CEducacion {
     
     
 }
+
+
+
