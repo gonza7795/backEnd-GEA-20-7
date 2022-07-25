@@ -36,7 +36,11 @@ public class Educacion {
     }
 
     public Educacion(String nombreEduc, String descripcionEduc, String imgEduc) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        
+            this.nombreEduc = nombreEduc;
+        this.descripcionEduc = descripcionEduc;
+        this.imgEduc = imgEduc;
+ 
     }
 
     public int getId() {
