@@ -5,7 +5,7 @@
 package com.portfolio.gea.Controller;
 
 
-import com.portfolio.gea.Dto.dtoEducacion;
+
 import com.portfolio.gea.Dto.dtoProyectos;
 
 import com.portfolio.gea.Entity.Proyectos;
